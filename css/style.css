@@ -1,0 +1,96 @@
+* {
+    font-family: 'Roboto Slab', serif;
+
+}
+
+
+#example2 {
+    color: #2b2d42;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    padding: 10px 20px;
+    border-radius: 10px;
+    text-shadow: 0 0 5px #fff;
+    box-shadow: 0 0 10px #2b2d42
+}
+
+.Text-Home {
+    margin-top: 40px;
+    cursor: default;
+}
+
+#Text-p-Home {
+    margin-top: 40px;
+    text-align: justify;
+    cursor: default;
+}
+
+.col-p-home {
+    text-align: center;
+    margin-top: 40px;
+    font-weight: bold;
+    font-size: 30pxpx;
+    cursor: grab;
+    
+}
+
+.col-p-home:hover {
+    transform: scale(1.1);
+}
+
+.HiQu {
+    color: red
+}
+
+.EnPro {
+    color: green;
+
+}
+
+.CuSa {
+    color: blueviolet;
+
+}
+
+.EaSh {
+    color: orange;
+}
+
+.navbar-brand {
+    font-size: 48PX;
+    font-weight: bold;
+    color: #2b2d42;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    border: 2px solid #2b2d42;
+    padding: 10px 20px;
+    border-radius: 10px;
+    text-shadow: 0 0 5px #fff;
+    box-shadow: 0 0 10px #2b2d42;
+}
+.best-product{
+    text-align: center;
+    border-right: 4px solid green;
+    border-left: 4px solid green;
+    cursor: default;
+    border-radius: 3px;  
+}
+.product{
+   
+    text-shadow: 0 0 5px #fff;
+    box-shadow: 0 0 5px #2b2d42;
+    margin: 15px;
+}
+.product:hover{
+  transform: scale(1.01);
+}
+.card-img-top{
+    width: 250px;
+    height: 250px;
+    margin-top: 5px;
+}
+
+
+
+
+
